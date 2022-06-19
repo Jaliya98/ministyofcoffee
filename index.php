@@ -97,7 +97,7 @@
     <div class="content">
         
         <h3>Ministry of Coffee</h3>
-        <p>Sri Lankan premium coffee</p>
+        <p>Sri Lankan premium coffee Beans</p>
         <!--<a href="#" class="btn">get yours now</a>-->
     </div>
 
@@ -114,14 +114,14 @@
     <div class="row">
 
         <div class="image">
-            <img src="images/about-img.jpeg" alt="">
+            <img src="images/about-img.jpg" alt="">
         </div>
 
         <div class="content">
-            <h3>what makes our coffee special?</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus qui ea ullam, enim tempora ipsum fuga alias quae ratione a officiis id temporibus autem? Quod nemo facilis cupiditate. Ex, vel?</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit amet enim quod veritatis, nihil voluptas culpa! Neque consectetur obcaecati sapiente?</p>
-            <a href="#" class="btn">learn more</a>
+            <h3>what makes our coffee Beans special?</h3>
+            <p>Specialty coffees are often roasted lighter than commercial coffees in order to preserve as much of the bean's flavor as possible. Darker roasts burn out the undesirable flavors in the coffee, but they also burn off the desirable ones.</p>
+            <p>A high-quality coffee will have a robust, pleasant, and fresh scent. It's important that the beans don't feel overly fatty or dry. Whole beans should not be brittle or crumble readily when pressed between your fingers. A one-way valve and an airtight seal should be included in the packing.</p>
+            <!--<a href="#" class="btn">learn more</a>-->
         </div>
 
     </div>
@@ -272,7 +272,7 @@
 
         <div class="box">
             <img src="images/quote-img.png" alt="" class="quote">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi nulla sit libero nemo fuga sequi nobis? Necessitatibus aut laborum, nisi quas eaque laudantium consequuntur iste ex aliquam minus vel? Nemo.</p>
+            <p>This decaf coffee is the greatest I've ever had. Outstanding client service!!! James, I appreciate it.</p>
             <img src="images/pic-1.png" class="user" alt="">
             <h3>john deo</h3>
             <div class="stars">
@@ -286,7 +286,7 @@
 
         <div class="box">
             <img src="images/quote-img.png" alt="" class="quote">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi nulla sit libero nemo fuga sequi nobis? Necessitatibus aut laborum, nisi quas eaque laudantium consequuntur iste ex aliquam minus vel? Nemo.</p>
+            <p>Excellent service and excellent decaf beans! The freshest I've ever tasted, with a great balanced rich flavor that's considerably superior than most other decafs, and it's reasonably priced.</p>
             <img src="images/pic-2.png" class="user" alt="">
             <h3>john deo</h3>
             <div class="stars">
@@ -300,7 +300,7 @@
         
         <div class="box">
             <img src="images/quote-img.png" alt="" class="quote">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi nulla sit libero nemo fuga sequi nobis? Necessitatibus aut laborum, nisi quas eaque laudantium consequuntur iste ex aliquam minus vel? Nemo.</p>
+            <p>Our coffee beans have made us extremely pleased. Our customers have been raving about our coffee, saying it's the greatest they've ever had!</p>
             <img src="images/pic-3.png" class="user" alt="">
             <h3>john deo</h3>
             <div class="stars">
