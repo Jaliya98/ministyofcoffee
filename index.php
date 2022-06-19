@@ -370,9 +370,9 @@
                 <img src="images/blog-1.jpeg" alt="">
             </div>
             <div class="content">
-                <a href="#" class="title">tasty and refreshing coffee</a>
+                <a href="#" class="title">Coffee of Your Dreams</a>
                 <span>by admin / 21st may, 2021</span>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
+                <p>Your Aspiration You'll discover everything you need to get started brewing coffee at home, from the most popular coffee recipes to the latest coffee trends.s</p>
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
@@ -382,9 +382,9 @@
                 <img src="images/blog-2.jpeg" alt="">
             </div>
             <div class="content">
-                <a href="#" class="title">tasty and refreshing coffee</a>
+                <a href="#" class="title">A Coffee Tour of Europe</a>
                 <span>by admin / 21st may, 2021</span>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
+                <p>European Coffee Trip is an online magazine and travel guide that focuses on Europe's specialty coffee culture.</p>
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
@@ -394,9 +394,9 @@
                 <img src="images/blog-3.jpeg" alt="">
             </div>
             <div class="content">
-                <a href="#" class="title">tasty and refreshing coffee</a>
+                <a href="#" class="title">Bean Ground</a>
                 <span>by admin / 21st may, 2021</span>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
+                <p>Bean Ground's mission is to give educational resources and step-by-step instructions so that even the most inexperienced home coffee maker can learn to make outstanding coffee shop-quality coffee at home.</p>
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
