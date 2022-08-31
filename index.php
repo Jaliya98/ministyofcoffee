@@ -373,7 +373,7 @@
                 <a href="#" class="title">Coffee of Your Dreams</a>
                 <span>by admin / 21st may, 2021</span>
                 <p>Your Aspiration You'll discover everything you need to get started brewing coffee at home, from the most popular coffee recipes to the latest coffee trends.s</p>
-                <a href="#" class="btn">read more</a>
+                <a href="Gallery/gallery.html" class="btn">View more</a>
             </div>
         </div>
 
@@ -385,7 +385,7 @@
                 <a href="#" class="title">A Coffee Tour of Europe</a>
                 <span>by admin / 21st may, 2021</span>
                 <p>European Coffee Trip is an online magazine and travel guide that focuses on Europe's specialty coffee culture.</p>
-                <a href="#" class="btn">read more</a>
+                <a href="Gallery/gallery.html" class="btn">View more</a>
             </div>
         </div>
 
@@ -397,7 +397,7 @@
                 <a href="#" class="title">Bean Ground</a>
                 <span>by admin / 21st may, 2021</span>
                 <p>Bean Ground's mission is to give educational resources and step-by-step instructions so that even the most inexperienced home coffee maker can learn to make outstanding coffee shop-quality coffee at home.</p>
-                <a href="#" class="btn">read more</a>
+                <a href="Gallery/gallery.html" class="btn">View more</a>
             </div>
         </div>
 
