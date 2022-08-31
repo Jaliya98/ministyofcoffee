@@ -35,7 +35,7 @@
         <a href="#products">products</a>
         <a href="#review">review</a>
         <a href="#contact">contact</a>
-        <a href="#blogs">blogs</a>
+        <a href="#blogs">Gallery</a>
     </nav>
 
     <div class="icons">
@@ -361,7 +361,7 @@
 
 <section class="blogs" id="blogs">
 
-    <h1 class="heading"> our <span>blogs</span> </h1>
+    <h1 class="heading"> our <span>Gallery</span> </h1>
 
     <div class="box-container">
 
