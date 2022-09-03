@@ -456,7 +456,7 @@
             </div>
         </div>
 
-        <a href="Gallery/gallery.html" class="btn">View more</a>
+        <center><a href="Gallery/gallery.html" class="btn">View more</a></center>
 
     </div>
 
