@@ -379,7 +379,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/blog-2.jpeg" alt="">
+                <img src="Gallery/images/image-6.jpeg" alt="">
             </div>
             <div class="content">
                 <a href="#" class="title">A Coffee Tour of Europe</a>
@@ -391,7 +391,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/blog-3.jpeg" alt="">
+                <img src="Gallery/images/image-8.jpeg" alt="">
             </div>
             <div class="content">
                 <a href="#" class="title">Bean Ground</a>
