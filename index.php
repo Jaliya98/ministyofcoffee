@@ -367,7 +367,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/blog-1.jpeg" alt="">
+                <img src="Gallery/images/image-1.jpeg" alt="">
             </div>
             <div class="content">
                 <a href="#" class="title">Coffee of Your Dreams</a>
