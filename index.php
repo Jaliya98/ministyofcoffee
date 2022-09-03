@@ -114,7 +114,7 @@
     <div class="row">
 
         <div class="image">
-            <img src="Gallery/images/images-20.jpeg" alt="">
+            <img src="Gallery/images/image-20.jpeg" alt="">
         </div>
 
         <div class="content">
