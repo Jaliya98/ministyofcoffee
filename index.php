@@ -192,25 +192,20 @@
 
     <div class="box-container">
 
-        <div class="box">
+    <div class="box">
             <div class="icons">
                 <a href="#" class="fas fa-shopping-cart"></a>
                 <a href="#" class="fas fa-heart"></a>
                 <a href="#" class="fas fa-eye"></a>
             </div>
             <div class="image">
-                <img src="images/product-1.png" alt="">
+                <img src="Coffeeimage/NABD100.jpg" alt="">
             </div>
             <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
+                <h3>Arabica Coffee Beans</h3>
+                <h2 style="color: white;">Natural : Dark</h2>
+                <h1 style="color:white;">Product Code : NABD100</h1>
+                <div class="price">LKR - 2400/=</div>
             </div>
         </div>
 
@@ -221,18 +216,13 @@
                 <a href="#" class="fas fa-eye"></a>
             </div>
             <div class="image">
-                <img src="images/product-2.png" alt="">
+                <img src="Coffeeimage/NABM100.jpg" alt="">
             </div>
             <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
+                <h3>Arabica Coffee Beans</h3>
+                <h2 style="color: white;">Natural : Medium</h2>
+                <h1 style="color:white;">Product Code : NABM100</h1>
+                <div class="price">LKR - 2400/=</div>
             </div>
         </div>
 
@@ -243,18 +233,13 @@
                 <a href="#" class="fas fa-eye"></a>
             </div>
             <div class="image">
-                <img src="images/product-3.png" alt="">
+                <img src="Coffeeimage/NABL100.jpg" alt="">
             </div>
             <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
+                <h3>Arabica Coffee Beans</h3>
+                <h2 style="color: white;">Natural : Light</h2>
+                <h1 style="color:white;">Product Code : NABL100</h1>
+                <div class="price">LKR - 2400/=</div>
             </div>
         </div>
 
@@ -265,18 +250,13 @@
                 <a href="#" class="fas fa-eye"></a>
             </div>
             <div class="image">
-                <img src="images/product-3.png" alt="">
+                <img src="Coffeeimage/WABD100.jpg" alt="">
             </div>
             <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
+                <h3>Arabica Coffee Beans</h3>
+                <h2 style="color: white;">Wet : Dark</h2>
+                <h1 style="color:white;">Product Code : WABD100</h1>
+                <div class="price">LKR - 2850/=</div>
             </div>
         </div>
 
@@ -287,18 +267,13 @@
                 <a href="#" class="fas fa-eye"></a>
             </div>
             <div class="image">
-                <img src="images/product-3.png" alt="">
+                <img src="Coffeeimage/WABM100.jpg" alt="">
             </div>
             <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
+                <h3>Arabica Coffee Beans</h3>
+                <h2 style="color: white;">Wet : Medium</h2>
+                <h1 style="color:white;">Product Code : WABM100</h1>
+                <div class="price">LKR - 2850/=</div>
             </div>
         </div>
 
@@ -309,151 +284,15 @@
                 <a href="#" class="fas fa-eye"></a>
             </div>
             <div class="image">
-                <img src="images/product-3.png" alt="">
+                <img src="Coffeeimage/NRBD100.jpg" alt="">
             </div>
             <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
+                <h3>Robusta Coffee Beans</h3>
+                <h2 style="color: white;">Natural : Dark</h2>
+                <h1 style="color:white;">Product Code : NRBD100</h1>
+                <div class="price">LKR - 2400/=</div>
             </div>
         </div>
-
-        <div class="box">
-            <div class="icons">
-                <a href="#" class="fas fa-shopping-cart"></a>
-                <a href="#" class="fas fa-heart"></a>
-                <a href="#" class="fas fa-eye"></a>
-            </div>
-            <div class="image">
-                <img src="images/product-3.png" alt="">
-            </div>
-            <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
-            </div>
-        </div>
-
-        <div class="box">
-            <div class="icons">
-                <a href="#" class="fas fa-shopping-cart"></a>
-                <a href="#" class="fas fa-heart"></a>
-                <a href="#" class="fas fa-eye"></a>
-            </div>
-            <div class="image">
-                <img src="images/product-3.png" alt="">
-            </div>
-            <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
-            </div>
-        </div>
-
-        <div class="box">
-            <div class="icons">
-                <a href="#" class="fas fa-shopping-cart"></a>
-                <a href="#" class="fas fa-heart"></a>
-                <a href="#" class="fas fa-eye"></a>
-            </div>
-            <div class="image">
-                <img src="images/product-3.png" alt="">
-            </div>
-            <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
-            </div>
-        </div>
-
-        <div class="box">
-            <div class="icons">
-                <a href="#" class="fas fa-shopping-cart"></a>
-                <a href="#" class="fas fa-heart"></a>
-                <a href="#" class="fas fa-eye"></a>
-            </div>
-            <div class="image">
-                <img src="images/product-3.png" alt="">
-            </div>
-            <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
-            </div>
-        </div>
-
-        <div class="box">
-            <div class="icons">
-                <a href="#" class="fas fa-shopping-cart"></a>
-                <a href="#" class="fas fa-heart"></a>
-                <a href="#" class="fas fa-eye"></a>
-            </div>
-            <div class="image">
-                <img src="images/product-3.png" alt="">
-            </div>
-            <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
-            </div>
-        </div>
-
-        <div class="box">
-            <div class="icons">
-                <a href="#" class="fas fa-shopping-cart"></a>
-                <a href="#" class="fas fa-heart"></a>
-                <a href="#" class="fas fa-eye"></a>
-            </div>
-            <div class="image">
-                <img src="images/product-3.png" alt="">
-            </div>
-            <div class="content">
-                <h3>fresh coffee</h3>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <div class="price">$15.99 <span>$20.99</span></div>
-            </div>
         </div>
 
         <center><a href="Product.html" class="btn">View more</a></center>
