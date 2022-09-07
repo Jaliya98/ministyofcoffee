@@ -372,7 +372,7 @@
             <br><br>
             <span class="fa fa-map-marker" style="font-size:24px"> Kegalla,Sri Lanka</span>
             <br><br>
-            <span class="fas fa-envelope" style="font-size:24px"> Ministryofcoffee@gmail.com</span>
+            <span class="fas fa-envelope" style="font-size:24px"> Contact@ministryofcoffe.com</span>
             <br><br>
             <span class="fas fa-phone" style="font-size:24px"> 0362222000</span>
             <!--<div class="inputBox">
