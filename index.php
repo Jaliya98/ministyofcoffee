@@ -205,7 +205,7 @@
                 <h3>Arabica Coffee Beans</h3>
                 <h2 style="color: white;">Natural : Dark</h2>
                 <h1 style="color:white;">Product Code : NABD100</h1>
-                <div class="price">LKR - 2400/=</div>
+                <div class="price">$16.50</div>
             </div>
         </div>
 
@@ -222,7 +222,7 @@
                 <h3>Arabica Coffee Beans</h3>
                 <h2 style="color: white;">Natural : Medium</h2>
                 <h1 style="color:white;">Product Code : NABM100</h1>
-                <div class="price">LKR - 2400/=</div>
+                <div class="price">$16.50</div>
             </div>
         </div>
 
@@ -239,7 +239,7 @@
                 <h3>Arabica Coffee Beans</h3>
                 <h2 style="color: white;">Natural : Light</h2>
                 <h1 style="color:white;">Product Code : NABL100</h1>
-                <div class="price">LKR - 2400/=</div>
+                <div class="price">$16.50</div>
             </div>
         </div>
 
@@ -256,7 +256,7 @@
                 <h3>Arabica Coffee Beans</h3>
                 <h2 style="color: white;">Wet : Dark</h2>
                 <h1 style="color:white;">Product Code : WABD100</h1>
-                <div class="price">LKR - 2850/=</div>
+                <div class="price">$16.50</div>
             </div>
         </div>
 
@@ -273,7 +273,7 @@
                 <h3>Arabica Coffee Beans</h3>
                 <h2 style="color: white;">Wet : Medium</h2>
                 <h1 style="color:white;">Product Code : WABM100</h1>
-                <div class="price">LKR - 2850/=</div>
+                <div class="price">$16.50</div>
             </div>
         </div>
 
@@ -290,7 +290,7 @@
                 <h3>Robusta Coffee Beans</h3>
                 <h2 style="color: white;">Natural : Dark</h2>
                 <h1 style="color:white;">Product Code : NRBD100</h1>
-                <div class="price">LKR - 2400/=</div>
+                <div class="price">$16.50</div>
             </div>
         </div>
         </div>
