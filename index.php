@@ -372,7 +372,7 @@
             <br><br>
             <span class="fa fa-map-marker" style="font-size:24px"> Senavipura,Sri Lanka</span>
             <br><br>
-            <span class="fas fa-envelope" style="font-size:24px"> Contact@ministryofcoffe.com</span>
+            <span class="fas fa-envelope" style="font-size:24px"><a herf="mailto:Contact@ministryofcoffe.com">Contact@ministryofcoffe.com</a></span>
             <br><br>
             <span class="fas fa-phone" style="font-size:24px"> 0768430711</span>
             <!--<div class="inputBox">
